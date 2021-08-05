@@ -1,1 +1,1 @@
-#Terraform Cloud Training
+# Terraform Cloud Training
